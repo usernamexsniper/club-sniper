@@ -5,8 +5,8 @@
 
 **Club Sniper** is a high‑performance Python tool that checks whether usernames are available on **club.com**. It generates thousands of random usernames (or reads from a file) and checks them concurrently at blazing speed.
 
-> **YouTube Tutorial:** [@ClubRipper](https://youtube.com/@ClubRipper)  
-> **Telegram Channel:** [@ClubRipper](https://t.me/ClubRipper)
+> **YouTube Tutorial:** [@usernamexsnipping][https://youtube.com/@ClubRipper](https://youtube.com/@usernamexsnipping)  
+> **Telegram Channel:** [usernamexsniper](https://t.me/usernamexsniper)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YourUsername/club-sniper.git
+git clone https://github.com/usernamexsniper/club-sniper.git
 cd club-sniper
 2. Install dependencies
 bash
@@ -42,7 +42,7 @@ Main Menu
 text
 ==================================================
    CLUB RIPPER - Username Sniper
-   YouTube: @ClubRipper | GitHub: ClubRipper
+   YouTube: @usernamexsnipping | GitHub: @usernamexsnipper
 ==================================================
 
 [1] Generate & check usernames
@@ -120,11 +120,11 @@ Respect the website's terms of service.
 The author is not responsible for any misuse.
 
 🧑‍💻 Author
-YouTube: @ClubRipper
+YouTube: @usernamexsnipping
 
-Telegram: @ClubRipper
+Telegram: @usernamexsniper
 
-GitHub: ClubRipper
+GitHub: @usernamexsniper
 
 ⭐ Support
 If you find this tool useful, please star the repository and share the YouTube tutorial with others. Pull requests and suggestions are welcome!
