@@ -5,8 +5,8 @@
 
 **Club Sniper** is a high‑performance Python tool that checks whether usernames are available on **club.com**. It generates thousands of random usernames (or reads from a file) and checks them concurrently at blazing speed.
 
-> **YouTube Tutorial:** [@usernamexsnipping][https://youtube.com/@ClubRipper](https://youtube.com/@usernamexsnipping)  
-> **Telegram Channel:** [usernamexsniper](https://t.me/usernamexsniper)
+> **YouTube Tutorial:** [@usernamexsnipping][https://youtube.com/@usernamexsnipping] (https://youtube.com/@usernamexsnipping)  
+> **Telegram Channel:** [usernamexsniper] (https://t.me/usernamexsniper)
 
 ---
 
